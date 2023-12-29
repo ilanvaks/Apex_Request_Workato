@@ -1,3 +1,7 @@
+-- Redirecting Link from Workato Recipe to Oracle APEX for better user experience
+-- Process located in Pre-Rendering, before header
+
+
 DECLARE
     l_clob 	CLOB;
 BEGIN
